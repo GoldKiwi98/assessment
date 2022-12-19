@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+This system will diagnose your good points.
