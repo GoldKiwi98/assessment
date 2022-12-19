@@ -1,2 +1,1 @@
-# assessment
-This system will diagnose your good points.
+Diagnose Your Good Points
